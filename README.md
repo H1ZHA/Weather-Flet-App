@@ -1,4 +1,5 @@
 🌤️ Weather App — Built with Python & Flet (Add Your Api And Dont Use My Api :))))))
+
 A beautiful, responsive, and feature-rich weather application built using Python and the Flet framework. Displays current weather, 5-day forecasts, favorite cities, and dynamically changing background images based on weather conditions.
 
 Perfect for learning Flet, consuming REST APIs, or as a base for your own weather dashboard.
