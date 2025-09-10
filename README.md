@@ -33,6 +33,7 @@ Requests — for calling OpenWeatherMap API
 OpenWeatherMap API — for weather data
 
 JSON — for storing favorite cities locally
+
 ⚙️ How to Run:
 ``` bash
 python3 weather.py
